@@ -17,5 +17,8 @@ The Language Translator project allows users to translate text between different
 
 ## What's Inside
 The repository contains the following files:
+main.py
+wordtranslator.py
+
 
 
