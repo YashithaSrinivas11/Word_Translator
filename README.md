@@ -20,5 +20,9 @@ The repository contains the following files:
 main.py
 wordtranslator.py
 
+## Screenshot of the output
+![Screenshot (6)](https://github.com/YashithaSrinivas11/Word_Translator/assets/140518506/aa9c6c1e-426e-49fe-a8f9-f15990fb13ec)
+
+
 
 
